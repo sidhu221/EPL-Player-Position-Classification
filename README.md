@@ -33,13 +33,14 @@ Many 3rd party statistical apps (FotMob, ESPN, Sleeper, EPL Fantasy) gather stat
 ## Model Evaluation 
 - Direct Accuracy (# of correct / total)
 - Root Mean Squared Error (RMSE)
-- 
 
 ## Results
+- Random Forest (2023-2024): **71% accuracy**
 - Confusion Matrix (2023-2024): **80% accuracy**
+- XGBoost (2023-2024): **81% accuracy**
 - Random Forest (2024-2025): **85% accuracy**
 - Confusion Matrix (2024-2025): **85% accuracy**
-- XG Booster (2024-2025): **86% accuracy**
+- XGBoost (2024-2025): **86% accuracy**
 
 ## Key Insights
 - Clearances, tackles, goals, and appearances were the most impactful statistics in predicting position
